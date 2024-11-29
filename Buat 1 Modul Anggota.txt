@@ -1,0 +1,3 @@
+Buat 1 Modul Anggota
+1. anggota.php
+2. tambah-anggota.php (Tambah, Edit, Delete)
